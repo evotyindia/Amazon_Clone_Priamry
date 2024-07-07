@@ -44,11 +44,11 @@ This project is a simple replica of the Amazon homepage. It includes various sec
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/yourusername/Amazon_Clone_Primary.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd your-repo-name
+    cd Amazon_Clone_Priamry
     ```
 3. Open `index.html` in your preferred web browser.
 
