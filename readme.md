@@ -44,7 +44,7 @@ This project is a simple replica of the Amazon homepage. It includes various sec
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Amazon_Clone_Primary.git
+    git clone https://github.com/evotyin/Amazon_Clone_Primary.git
     ```
 2. Navigate to the project directory:
     ```sh
