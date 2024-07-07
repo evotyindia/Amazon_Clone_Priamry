@@ -1,4 +1,3 @@
-```markdown
 # My First Website
 
 ## Welcome to My Awesome Website!
