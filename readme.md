@@ -66,7 +66,7 @@ This project is a simple replica of the Amazon homepage. It includes various sec
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out to me at [arryaan30@gmail.com](mailto: arryaan30@gmail.com).
+If you have any questions or feedback, feel free to reach out to me at [arryaan30@gmail.com](mailto:arryaan30@gmail.com).
 
 Thank you for visiting!
 ```
